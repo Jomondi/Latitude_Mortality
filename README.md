@@ -60,6 +60,7 @@
   Run the pairplot() function to generate a pairplot.
   ![pairplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Pairplot.png)
   
+  
   Run the regplot() function to generate a regplot.
   ![Regplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Regplot.png)
   
