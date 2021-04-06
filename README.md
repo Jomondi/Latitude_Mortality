@@ -31,39 +31,40 @@
 # Exercise Resolution
   Import the csv using pandas and print the column names.
   ![Column Headers](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Column%20Headers.png)
-  
+  <br />
   
   Convert the file into a dataframe and print the output in a tabular format
-  ![Dataframe Results](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame.png)__
+  ![Dataframe Results](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame.png)
+  <br />
   
   
   Generate and print the descriptive statistics of the dataframe
-  ![Dataframe Description](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame%20Description.png)__
-  
+  ![Dataframe Description](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame%20Description.png)
+  <br />
   
   Run the lineplot() function to generate a lineplot
-  ![Lineplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Lineplot.png)__
-  
+  ![Lineplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Lineplot.png)
+  <br />
   
   Run the scatterplot() function to generate a scatterplot
-  ![Scatterplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Scatterplot.png)__
-  
+  ![Scatterplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Scatterplot.png)
+  <br />
   
   Run the mortality_boxplot() function to generate a boxplot
-  ![Mortality Boxplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Boxplot.png)__
-  
+  ![Mortality Boxplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Boxplot.png)
+  <br />
   
   Run the correlation_test() function to generate a pearson correlation test.
-  ![Correlation Test](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Correlation%20Test%20Results.png)__
-  
+  ![Correlation Test](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Correlation%20Test%20Results.png)
+  <br />
   
   Run the pairplot() function to generate a pairplot.
-  ![pairplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Pairplot.png)__
-  
+  ![pairplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Pairplot.png)
+  <br />
   
   Run the regplot() function to generate a regplot.
   ![Regplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Regplot.png)__
   
   
   Create the regression model using ols() and print the summary
-  ![Regression Model Summary](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/OLS%20Regression%20Results.png)__
+  ![Regression Model Summary](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/OLS%20Regression%20Results.png)
