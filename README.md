@@ -93,7 +93,7 @@
   Run the regplot() function to generate a regplot.
   <br />
   <br />
-  ![Regplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Regplot.png)__
+  ![Regplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Regplot.png)
   <br />
   <br />
   
