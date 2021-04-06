@@ -30,25 +30,30 @@
   
 # Exercise Resolution
   Import the csv using pandas and print the column names.
-  ![Column Headers](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Column%20Headers.png)
   <br />
+  ![Column Headers](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Column%20Headers.png)
+  
   
   Convert the file into a dataframe and print the output in a tabular format
-  ![Dataframe Results](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame.png)
   <br />
+  ![Dataframe Results](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame.png)
+  
   
   
   Generate and print the descriptive statistics of the dataframe
-  ![Dataframe Description](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame%20Description.png)
   <br />
+  ![Dataframe Description](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/DataFrame%20Description.png)
+ 
   
   Run the lineplot() function to generate a lineplot
-  ![Lineplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Lineplot.png)
   <br />
+  ![Lineplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Lineplot.png)
+  
   
   Run the scatterplot() function to generate a scatterplot
-  ![Scatterplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Scatterplot.png)
   <br />
+  ![Scatterplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Scatterplot.png)
+  
   
   Run the mortality_boxplot() function to generate a boxplot
   ![Mortality Boxplot](https://github.com/Jomondi/Latitude_Mortality/blob/main/Images/Boxplot.png)
