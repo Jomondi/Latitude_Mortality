@@ -1,13 +1,4 @@
-# Exercise Resolution
-  Pre-requisites:
-  
-    a) User must have Python and an interpreter installed.
-    b) Have all the necessary imports installed and imported.
-    
-           i. matplotlib
-           ii. pandas
-           iii. seaborn
-           iv. statsmodel
+# Exercise Description 
            
   1: Load the data and print the column names
 
@@ -31,6 +22,16 @@
   
   
 # Exercise Resolution
+   Pre-requisites:
+  
+    a) User must have Python and an interpreter installed.
+    b) Have all the necessary imports installed and imported.
+    
+           i. matplotlib
+           ii. pandas
+           iii. seaborn
+           iv. statsmodel
+           
   Import the csv using pandas and print the column names.
   <br />
   <br />
