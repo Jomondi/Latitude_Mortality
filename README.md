@@ -1,5 +1,6 @@
 # Exercise Resolution
   Pre-requisites:
+  
     a) User must have Python and an interpreter installed.
     b) Have all the necessary imports installed and imported.
     
